@@ -1,0 +1,12 @@
+[33m925791c[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m Add React frontend
+[33mf5558b1[m Rename products template
+[33m971f76c[m Update
+[33m45bf214[m Update store
+[33m3857217[m fix: restructure templates inside products app
+[33mac51982[m fix: adjust views to use uppercase Products folder
+[33md0deb11[m fix: register tamplates directory in settings
+[33m64e7d81[m fix: change template path casing to lowercase
+[33m3d2a95e[m fix: add STATIC_ROOT
+[33mdde2fdb[m تجهيز إعدادات السيرفر و gunicorn
+[33m26b965c[m إضافة ميزات وتعديلات جديدة للمتجر
+[33mb0c8bb8[m Initial commit - Ecommerce with Cart and Products
